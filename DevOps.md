@@ -4,6 +4,8 @@
 
 We're a kickass team with a company culture to match! We're looking to grow our numbers and are now looking for a DevOps to help manage, automate and develop for our growing server fleet.
 
+![](http://www.wired.com/images_blogs/business/2013/12/it-is-dead.jpg)
+
 We're **not** looking for a [BOFH](http://resguru.com/wp-content/uploads/2010/08/chuck-norris-vs-the-users-bofh.jpg), a “[Wall of Confusion](http://dev2ops.org/wp-content/uploads/2010/02/WallOfConfusion.png)” but a person who wants to make a big difference in a small organization and build a strong resilient platform with jaw dropping uptime.
 
 > "Devops is intersection of lover of cloud and hater of wake up at 3 in morning." - [@DevOps Borat](https://twitter.com/DEVOPS_BORAT/status/302542701247741954)

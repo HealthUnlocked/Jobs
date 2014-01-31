@@ -56,5 +56,5 @@ You're:
 * Competitive salary
 * Share options
 * Bike-to-work scheme
-* 20 days holiday
+* 20 days holiday (exc. public holidays)
 

@@ -22,10 +22,12 @@ You're:
 
 * A fast learner
 * A collaborator
+* Detail-oriented
 * A solver
 * Resourceful
 * Dedicated
 * Creative
+* Articulate
 
  
 ### Responsibilities

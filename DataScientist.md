@@ -16,6 +16,8 @@ We’re not [saving seal pups](http://cdn-test.healthunlocked.com/misc/hugo-brea
 
 ## About You
 
+You know the seven bridges of Königsberg isn't the name of a craft beer, the local clustering coefficient of a node and the difference between percolation and bond percolation in graphs.
+
 You’re:
 
 * A fast learner

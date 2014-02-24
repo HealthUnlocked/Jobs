@@ -38,7 +38,9 @@ You’re:
 * Agile development methodology
 * Unstructured data and text analysis
 * Variety of databases (Graph/Relational/NoSql)
-* Backups
+* Provable experience in robustly classifying data, inferring relationships and forecasting trends
+* Exposure to ethical requiements related to healthcare/clinical data
+
 
 We’re looking for a person who thrives on collecting raw data from multiple sources, exploring derivations and achieving insight and answers to key business questions. The ability to design, develop and integrate tools and services to achieve this end is an integral part of this role.
 

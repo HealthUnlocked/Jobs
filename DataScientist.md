@@ -30,9 +30,9 @@ You’re:
 ### Key Responsibilities , Skills and Experience
 
 * Extensive software development and scripting experience in *Bash*, *Java*, *Perl*, *Javascript*, *C*, *C#* and *Clojure* etc
-* Master of Algorithms 
+* Master of Algorithms and design of software solutions
 * Machine learning principles
-* Proficiency in building statistical models
+* Proficiency in building statistical models and database structures
 * Data manipulation with SQL systems or data APIs
 * Excellent verbal and written communication
 * Agile development methodology
@@ -40,6 +40,11 @@ You’re:
 * Variety of databases (Graph/Relational/NoSql)
 * Provable experience in robustly classifying data, inferring relationships and forecasting trends
 * Exposure to ethical requiements related to healthcare/clinical data
+* Evaluate software tools and packages
+* Develop analytic/reporting dashboards and user interfaces
+
+
+ 
 
 
 We’re looking for a person who thrives on collecting raw data from multiple sources, exploring derivations and achieving insight and answers to key business questions. The ability to design, develop and integrate tools and services to achieve this end is an integral part of this role.

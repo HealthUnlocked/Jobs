@@ -58,5 +58,5 @@ We’re looking for a person who thrives on collecting raw data from multiple so
 * 20 days holiday (exc. public holidays)
  
 
-* No recruitment agents thank you.* 
+*No recruitment agents thank you.* 
 

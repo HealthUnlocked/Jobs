@@ -26,6 +26,7 @@ You’re:
 * Resourceful
 * Dedicated
 * Creative
+ 
 
 ### Key Responsibilities , Skills and Experience
 
@@ -51,7 +52,11 @@ We’re looking for a person who thrives on collecting raw data from multiple so
 
 ## Package
 
-* Competitive salary
+* Salary £30-40k PA
 * Share options
 * Bike-to-work scheme
 * 20 days holiday (exc. public holidays)
+ 
+
+* No recruitment agents thank you.* 
+
